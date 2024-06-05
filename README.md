@@ -4,6 +4,8 @@
 
 To investigate drug trafficking activities on the dark web, focusing on the Dread forums, using OSINT techniques to understand vendor operations and community interactions.
 
+[Files Included in Repository]
+
 ### Skills Learned
 
 - Open-source intelligence (OSINT) gatherin
